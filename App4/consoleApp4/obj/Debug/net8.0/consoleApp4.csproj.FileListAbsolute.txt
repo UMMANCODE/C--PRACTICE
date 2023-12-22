@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\bin\Debug\net8.0\consoleApp4.exe
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\bin\Debug\net8.0\consoleApp4.deps.json
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\bin\Debug\net8.0\consoleApp4.runtimeconfig.json
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\bin\Debug\net8.0\consoleApp4.dll
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\bin\Debug\net8.0\consoleApp4.pdb
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\obj\Debug\net8.0\consoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\obj\Debug\net8.0\consoleApp4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\obj\Debug\net8.0\consoleApp4.AssemblyInfo.cs
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\obj\Debug\net8.0\consoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\obj\Debug\net8.0\consoleApp4.dll
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\obj\Debug\net8.0\refint\consoleApp4.dll
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\obj\Debug\net8.0\consoleApp4.pdb
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\obj\Debug\net8.0\consoleApp4.genruntimeconfig.cache
+C:\Users\user\Desktop\C-programming\C#_programming\App4\consoleApp4\obj\Debug\net8.0\ref\consoleApp4.dll
